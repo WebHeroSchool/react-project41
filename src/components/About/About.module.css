@@ -1,0 +1,17 @@
+
+.wrap {
+	margin: 0 auto;
+	text-align: center;
+	margin: 0;
+	background: url('bg.jpg') 0 0/100% 100vh no-repeat;
+}
+
+.img {
+	width: 90%;
+	height: auto;
+	border: 2px solid grey;
+}
+
+.error {
+	color: red;
+}

@@ -1,0 +1,21 @@
+.sidebar {
+	grid-area: sidebar;
+	display: block;
+	border: 1px solid grey;
+}
+
+.content {
+	grid-area: content;
+	border: 1px solid grey;
+}
+
+.wrap {
+	display: grid;
+	grid-template-areas: 'sidebar ... content content';
+	margin: auto;
+	width: 45%;
+}
+
+.link {
+	text-decoration: none;
+}
