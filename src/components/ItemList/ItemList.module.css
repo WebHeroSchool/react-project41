@@ -1,0 +1,13 @@
+.item {
+	border: 1px solid gray;
+	height: 55px;
+	padding-left: 3%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #f4f4f4;
+}
+
+.item:hover {
+	box-shadow: 0 0 8px 1px;
+}
