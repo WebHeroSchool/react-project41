@@ -1,0 +1,20 @@
+.wrap {
+	box-sizing: border-box;
+	width: 45%;
+	height: 100%;
+	margin: auto;
+	font-style: italic;
+	font-size: 1.8em;
+	border: 1px solid black;
+	box-shadow: 0 0 8px 1px;
+}
+
+.title {
+	text-align: center;
+	font-family: serif;
+  width: 100%;
+  display: block;
+  margin: 0;
+  padding: 4% 0;
+  background: #86a8e7;
+}

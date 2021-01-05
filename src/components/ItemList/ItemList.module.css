@@ -1,0 +1,14 @@
+.item {
+	border: 1px solid gray;
+	height: 55px;
+	padding-left: 3%;
+	display: flex;
+	align-items: center;
+	background: #f4f4f4;
+	/*background: #D3D3D3;*/
+}
+
+.item:hover {
+	text-decoration: line-through;
+	box-shadow: 0 0 8px 1px;
+}
